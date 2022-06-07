@@ -1,2 +1,0 @@
-# persediaan-obat
-aplikasi han
